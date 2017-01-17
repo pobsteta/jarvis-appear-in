@@ -14,7 +14,7 @@ Ce plugin vous permet d'ouvrir une chambre de conversation dans l'application ap
 
 ## Usage
 ```
-APPEL
+*APPEL*
 
 ## Author
 [Pascal Obstetar]
