@@ -1,1 +1,4 @@
-*CHAMBRE*==say "Je l'appelle" && jv_pg_ap_search
+*OUVR*CONF*==ap_ilyanom
+>*== ap_verinoms && if [ "$order" = "$PNOM" ]; then say "Ouverture d'une vidéoconférence avec $order"; else say "Je ne connais pas $order. Annulation."; commands="$(jv_get_commands)"; return; fi 
+>>*OUI*|*OK*== say "Ok... c'est parti... $username $(ap_envoimess) $(ap_openconf)"
+>>*NON*== say "Ok... Annulation..."

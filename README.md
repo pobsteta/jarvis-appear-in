@@ -10,11 +10,25 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Ce plugin vous permet d'ouvrir une chambre de conversation dans l'application appear.in
+Appear.in est un outil collaboratif qui permet de créer en un clin d’oeil des vidéoconférences à
+partir d’un simple navigateur.
+L’interface de votre salle de vidéoconférence est spartiate. Les participants s’affichent en
+mosaïque sur l’écran. Chacun peut utiliser le micro et la caméra de son ordinateur pour participer
+à la conversation. Un bouton bien pratique permet de couper le micro ou de désactiver sa caméra.
+Les participants peuvent aussi partager leur écran avec les autres.
+
+Free Mobile a lance un service de notification via SMS pour ses abonnes, gratuit si vous avez le
+forfait illimite en sms bien sur.
+
+Ce plugin envoi un SMS prévenant de l’ouverture d’une vidéconférence sur appear.in
 
 ## Usage
+
 ```
-*CHAMBRE*
+You: ouvre une conf
+Jarvis: Ouvrir une vidéoconférence avec Pascal, Nelly ?
+You: Pascal
+Jarvis: Ok c est parti...
 ```
 
 ## Author
