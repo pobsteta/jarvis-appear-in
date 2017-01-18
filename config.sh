@@ -2,24 +2,24 @@
 # Envoi un SMS prévenant le destinataire
 # de l ouverture d une conf
 # NOM1="Pascal"
-# USER1="123345678"
-# PASS1="vgdffFDRfggh"
+# USER1=""
+# PASS1=""
 
-NOM1="Pascal"
-USER1="91669294"
-PASS1="vzy3rjdWHmeMWL"
+NOM1=""
+USER1=""
+PASS1=""
 
-NOM2="Victorine"
-USER2="91422216"
-PASS2="n2ukjLTIRXE0vk"
+NOM2=""
+USER2=""
+PASS2=""
 
-NOM3="Adrien"
-USER3="94356736"
-PASS3="jrjtVAiHGQRUKA"
+NOM3=""
+USER3=""
+PASS3=""
 
-NOM4="Nelly"
-USER4="18161708"
-PASS4="OdCE8WUB6VVqzM"
+NOM4=""
+USER4=""
+PASS4=""
 
 NOM5=""
 USER5=""
